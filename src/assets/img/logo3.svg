@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="40" height="40" viewBox="0 0 40 40" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.3</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 20.5 20.5)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,220,41); fill-rule: nonzero; opacity: 1;"  transform=" translate(-20, -20)" d="M 34.1422 5.85781 C 30.3647 2.08031 25.3422 0 20 0 C 14.6578 0 9.63531 2.08031 5.85781 5.85781 C 2.08031 9.63531 0 14.6578 0 20 C 0 25.3422 2.08039 30.3646 5.85781 34.1422 C 9.63523 37.9198 14.6578 40 20 40 C 25.3422 40 30.3647 37.9197 34.1422 34.1422 C 37.9197 30.3647 40 25.3422 40 20 C 40 14.6578 37.9196 9.63539 34.1422 5.85781 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 21.07 21.07)" clip-path="url(#CLIPPATH_7)"  >
+<clipPath id="CLIPPATH_7" >
+	<rect transform="matrix(1 0 0 1 0 0)" id="clip0" x="-13.7143" y="-13.7143" rx="0" ry="0" width="27.4286" height="27.4286" />
+</clipPath>
+<path style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-20.57, -20.57)" d="M 20.5714 8 V 33.1429" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 21.07 21.07)" clip-path="url(#CLIPPATH_8)"  >
+<clipPath id="CLIPPATH_8" >
+	<rect transform="matrix(1 0 0 1 0 0)" id="clip0" x="-13.7143" y="-13.7143" rx="0" ry="0" width="27.4286" height="27.4286" />
+</clipPath>
+<path style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-20.57, -20.57)" d="M 26.2857 12.5714 H 17.7143 C 16.6534 12.5714 15.636 12.9929 14.8859 13.743 C 14.1357 14.4931 13.7143 15.5106 13.7143 16.5714 C 13.7143 17.6323 14.1357 18.6497 14.8859 19.3999 C 15.636 20.15 16.6534 20.5714 17.7143 20.5714 H 23.4286 C 24.4894 20.5714 25.5069 20.9929 26.257 21.743 C 27.0072 22.4932 27.4286 23.5106 27.4286 24.5714 C 27.4286 25.6323 27.0072 26.6497 26.257 27.3999 C 25.5069 28.15 24.4894 28.5714 23.4286 28.5714 H 13.7143" stroke-linecap="round" />
+</g>
+</svg>
