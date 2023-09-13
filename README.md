@@ -1,16 +1,69 @@
-# Vue 3 + TypeScript + Vite
+<h4 align="center">
+  🚀 DT Money - Gerenciador Financeiro Pessoal
+</h4>
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
 
-## Recommended IDE Setup
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+</p>
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-## Type Support For `.vue` Imports in TS
+<br>
 
-Since TypeScript cannot handle type information for `.vue` imports, they are shimmed to be a generic Vue component type by default. In most cases this is fine if you don't really care about component prop types outside of templates. However, if you wish to get actual prop types in `.vue` imports (for example to get props validation when using manual `h(...)` calls), you can enable Volar's Take Over mode by following these steps:
+## :rocket: Tecnologias
 
-1. Run `Extensions: Show Built-in Extensions` from VS Code's command palette, look for `TypeScript and JavaScript Language Features`, then right click and select `Disable (Workspace)`. By default, Take Over mode will enable itself if the default TypeScript extension is disabled.
-2. Reload the VS Code window by running `Developer: Reload Window` from the command palette.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/volar/discussions/471).
+- [Vue 3](https://vuejs.org/)
+- [Pinia](https://pinia.vuejs.org/)
+- [PrimeVue](https://primevue.org/)
+- [Vite](https://vitejs.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+
+
+## 💻 Projeto
+
+Esse projeto é um gerenciador financeiro pessoal onde você pode registrar os seus ganhos e gastos mensal. Projeto simples apenas para praticar as tecnologias mencionadas
+
+
+## 💻 Funcionalidades
+
+O sistema possui um formulário numa modal tela para cadastrar o lançamento com o seu nome, valor, categoria e se é entrada ou saída.
+Após o cadastro do lançamento, o mesmo é exibido numa listagem.
+
+## 📄 Requisitos
+
+npm 9.6+, node 12+, Docker, Docker-Compose
+
+
+## ⚙️ Instalação e execução
+
+**Windows, OS X & Linux:**
+
+Baixe o arquivo zip e o descompacte ou baixe o projeto para sua máquina através do git clone [https://github.com/randercarlos/dtmoney.git](https://github.com/randercarlos/dtmoney.git)
+
+
+- Entre no prompt de comando e vá até a pasta do projeto:
+
+```sh
+cd ir-ate-a-pasta-do-projeto
+```
+
+- Rode o comando.
+
+```sh
+npm run dev
+```
+
+- Após rodar o comando acima, basta acessar o endereço [http://localhost:5000](http://localhost:5000) para acessar a página do projeto.
+
+
+Desenvolvido por Rander Carlos :wave: [Linkedin!](https://www.linkedin.com/in/rander-carlos-308a63a8//)
